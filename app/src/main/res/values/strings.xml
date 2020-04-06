@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string name="procesar_label">Procesar</string>
+    <string name="estatura">Ingrese su estatura (cm)</string>
+    <string name="peso">Ingrese su peso (lb)</string>
+    <string name="regresar_label">Regresar</string>
+
+</resources>
